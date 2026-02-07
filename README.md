@@ -47,3 +47,31 @@ fit-frame/
 1. Clone the repository:
 ```bash
 git clone https://github.com/ReallyBot005/fit-frame.git
+
+---
+
+📦 Deployment
+
+The project is deployed on Netlify using continuous deployment linked with GitHub.
+Every push to the main branch automatically triggers a new deployment.
+
+🎯 Learning Outcomes
+
+Hands-on experience with React and Vite
+
+Understanding modern frontend project structure
+
+GitHub version control workflow
+
+Deploying production builds using Netlify
+
+Managing clean repositories using .gitignore
+
+👤 Author
+
+Suraj Paul Choudhury
+Engineering Student | Frontend Development Enthusiast
+
+📜 License
+
+This project is for educational and internship demonstration purposes.
